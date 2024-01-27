@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Anja Conev
+title: AnjaConev
 
 # Name pronunciation (optional)
 name_pronunciation: Anja Conev
