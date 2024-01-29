@@ -31,6 +31,7 @@ sections:
       filters:
         folders:
         - project
+        
     design:
       # Choose a listing view
       view: showcase
