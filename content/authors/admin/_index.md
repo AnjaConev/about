@@ -3,7 +3,7 @@
 title: AnjaConev
 
 # Name pronunciation (optional)
-name_pronunciation: Anja Conev
+# name_pronunciation: Anja Conev
 
 # Full name (for SEO)
 first_name: Anja
