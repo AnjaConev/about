@@ -1,10 +1,10 @@
 ---
 title: Dositeja Fellowship
-summary: 
+summary: A government sponsored fellowsip for Serbian students studying abroad.
 tags:
   - Fellowships
-date: '2019-2021'
+date: '2020-12-20'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://educationusa.state.gov/scholarships/dositeja-fund-young-talents-serbia'
 ---
