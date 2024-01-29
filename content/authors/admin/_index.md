@@ -78,5 +78,5 @@ social:
 highlight_name: true
 ---
 
-Anja Conev is a PhD candidate at the Computer Science Department of Rice University. Her research interests include applied artificial intelligence and machine learning in the context of structural computational biology, drug design and immunoinformatics.
+I am a PhD candidate at the Computer Science Department of Rice University. My research interests include applied artificial intelligence and machine learning in the context of structural computational biology, drug design and immunoinformatics. I am passionate about interdisciplinary research, mentoring students and developing open source software for the research community. 
 {style="text-align: justify;"}

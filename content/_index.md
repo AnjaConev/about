@@ -33,7 +33,7 @@ sections:
         - project
     design:
       # Choose a listing view
-      view: compact
+      view: showcase
 
   - block: collection
     id: awards
