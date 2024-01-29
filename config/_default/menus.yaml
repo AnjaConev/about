@@ -8,13 +8,13 @@ main:
     url: '#about'
     weight: 10
   - name: Publications
-    url: '#featured'
+    url: '#publications'
     weight: 20
   - name: Projects
     url: '#projects'
     weight: 30
   - name: Awards
-    url: '#talks'
+    url: '#awards'
     weight: 40
   - name: Contact
     url: '#contact'

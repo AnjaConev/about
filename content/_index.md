@@ -19,8 +19,9 @@ sections:
       username: admin
     design:
       columns: '1'
-      
+
   - block: collection
+    id: publications
     content:
       title: Recent Publications
       filters:
