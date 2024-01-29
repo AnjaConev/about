@@ -25,6 +25,17 @@ sections:
       view: citation
 
   - block: collection
+    id: projects
+    content:
+      title: Projects
+      filters:
+        folders:
+        - project
+    design:
+      # Choose a listing view
+      view: compact
+
+  - block: collection
     id: awards
     content:
       title: Awards
