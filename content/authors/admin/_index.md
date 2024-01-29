@@ -39,7 +39,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: Rice University
-      year: 2024 (expected in August)
+      year: 2024 (expected graduation date in August)
     - course: BSc in Electrical Engineering and Computer Technology
       institution: University of Belgrade
       year: 2019
@@ -78,5 +78,5 @@ social:
 highlight_name: true
 ---
 
-Anja Conev is a PhD candidate at the Computer Science Department of Rice University. Her research interests include applied artificial intelligence and machine learning in the context structural computational biology, drug design and immunoinformatics.
+Anja Conev is a PhD candidate at the Computer Science Department of Rice University. Her research interests include applied artificial intelligence and machine learning in the context of structural computational biology, drug design and immunoinformatics.
 {style="text-align: justify;"}
